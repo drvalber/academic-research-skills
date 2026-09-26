@@ -58,6 +58,8 @@ EXPECTED_LEVELS = {
     "academic-paper-reviewer": "raw",
     "academic-pipeline": "raw",
     "deep-research": "raw",
+    # Fork overlay: routes raw user requests and pasted articles into the core skills.
+    "psiquiatria-ptbr": "raw",
 }
 
 # The pins themselves must stay inside the closed vocabulary.

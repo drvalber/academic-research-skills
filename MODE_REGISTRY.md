@@ -1,6 +1,6 @@
 # Mode Registry
 
-Single source of truth for all modes across the ARS suite. **27 modes** across 4 skills.
+Single source of truth for all modes across the ARS suite. **27 modes** across 5 skills (the `psiquiatria-ptbr` overlay adds no modes; it routes to the modes below).
 
 When adding or modifying modes, update this file first — SKILL.md files and CLAUDE.md should reference this registry.
 

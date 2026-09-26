@@ -10,6 +10,7 @@ A suite of Claude Code skills for rigorous academic research, paper writing, pee
 | `academic-paper` v3.3.1 | 12-agent paper writing | full, plan, outline-only, revision, revision-coach, abstract-only, lit-review, format-convert, citation-check, disclosure, rebuttal-audit |
 | `academic-paper-reviewer` v1.11.1 | Multi-perspective paper review (5 reviewers + optional cross-model DA critique) | full, re-review, quick, methodology-focus, guided, calibration |
 | `academic-pipeline` v3.22.2 | Full pipeline orchestrator | (coordinates all above) |
+| `psiquiatria-ptbr` v0.1.0 | Fork overlay: Brazilian Portuguese + clinical psychiatry context over the four core skills (no agents, no modes of its own) | (routes to the core modes above) |
 
 ## v3.22.2 Key Additions (run ledger and handoff check + acronym check + wider instruction/data boundary + routing and front-page repairs)
 
