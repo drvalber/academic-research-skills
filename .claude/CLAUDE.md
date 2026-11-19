@@ -404,3 +404,22 @@ Materials: Editorial Decision Letter, Revision Roadmap, Per-reviewer detailed co
 - **Last Updated**: 2026-09-25
 - **Author**: Cheng-I Wu
 - **License**: CC-BY-NC 4.0
+
+## Sobre o autor e a finalidade do trabalho
+
+- **Quem é:** Dr. Valber Dias Pinto, médico psiquiatra e **professor universitário**
+  (quase 20 anos de docência, sobretudo na Universidade Vila Velha, ES).
+- **Finalidade:** **ensinar e ajudar pacientes.** Aulas, livro, roteiros e documentos
+  clínicos têm finalidade acadêmica e assistencial, sem fins comerciais. Na dúvida,
+  priorizar o que torna o material mais útil para o ensino e para o cuidado.
+- **Figuras e trechos de artigos científicos:** podem ser reproduzidos em aulas e
+  materiais didáticos, com **citação completa da fonte** (autores, periódico, ano,
+  volume, páginas e número da figura) e a menção "uso didático, sem fins comerciais".
+  É a citação para fins de estudo e crítica prevista no art. 46, III, da Lei
+  9.610/1998, prática comum no meio acadêmico. Não recusar por esse motivo; apenas
+  creditar. Se houver figura equivalente em acesso aberto (CC BY), ela pode ser
+  preferida. Se um material vier a ser publicado comercialmente (por exemplo, o livro
+  por uma editora), avisar o autor para rever as permissões das figuras de terceiros.
+- **Rigor:** referências conferidas na fonte (DOI, Crossref, PubMed), nenhum dado
+  inventado, força das afirmações proporcional à evidência.
+- **Pacientes:** nenhum dado identificável em material de aula ou publicação.
